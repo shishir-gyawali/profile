@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "shishir-gyawali",
+    "email": "shishirgyawali108@gmail.com"
+  },
+  "records": {
+    "NS": ["augustus.ns.cloudflare.com", "isla.ns.cloudflare.com"]
+  }
+}
